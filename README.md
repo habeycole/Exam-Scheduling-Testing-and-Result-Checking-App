@@ -20,3 +20,16 @@ Use the right details for the credentials above as you have on your server.
 7. For the CBT test, the questions can be found in the *Questions* folder or just navigate to your production URL/questions. This should easily take you to where you can edit questions and answers from the GUI.
 8. For questions and/or help/support, please feel free to shoot me a message on: habeycole@gmail.com or info@menetwork.com.ng.
 9. You can help make this better, though. It was designed in 2019 to cater for the needs of a client where I work and the needs have been rightly effected and exceeded its needs so making it open source for more massive usage is ideal.
+
+## Screenshots
+### Homepage
+![Homepage](https://user-images.githubusercontent.com/44281289/101602953-3004d980-39ff-11eb-963b-dac8f59cb184.png)
+
+### Student Profile page
+![Profile](https://user-images.githubusercontent.com/44281289/101603334-b6b9b680-39ff-11eb-8026-7bfb7a091e5e.png)
+
+### Result Checking Page
+![Result](https://user-images.githubusercontent.com/44281289/101603481-e9fc4580-39ff-11eb-913e-d6b163b9ad60.png)
+
+### Student/User Accreditation/Checkin Page for Exam
+![Accreditation](https://user-images.githubusercontent.com/44281289/101603580-13b56c80-3a00-11eb-874e-dea588d5afd1.png)
