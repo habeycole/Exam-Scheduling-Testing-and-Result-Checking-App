@@ -1,0 +1,17 @@
+body {
+    background: url(img/use_your_illusion.png);
+    color: #eee;
+    font: 1em 'PT Sans', sans-serif;
+  }
+
+  h1{
+      font-size: 200%;
+  }
+
+  h3{
+      font-size: 130%;
+  }
+
+  h2{
+      font-size: 150%;
+  }
